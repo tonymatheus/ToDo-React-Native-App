@@ -5,6 +5,6 @@ _Aplicativo feito com React-Native que cria uma lista de coisas a fazer (ToDoLis
 
 #### Tecnologias Utilizadas:
 
-[x]React-Native
-[x]JavaScript
-[x]FireBase
+- [x]React-Native
+- [x]JavaScript
+- [x]FireBase
