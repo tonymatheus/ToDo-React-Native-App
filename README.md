@@ -20,4 +20,3 @@ _Aplicativo feito com React-Native que cria uma lista de coisas a fazer (ToDoLis
 
 ### Quando Rodar o App esse será o Resultado Apresentado
 
-![Toddo App](https://user-images.githubusercontent.com/43850888/82396921-327cf300-9a1d-11ea-84a9-8d4edfb822b8.gif
