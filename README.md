@@ -19,4 +19,4 @@ _Aplicativo feito com React-Native que cria uma lista de coisas a fazer (ToDoLis
 >**yarn android**
 
 ### Quando Rodar o App esse será o Resultado Apresentado
-
+https://github.com/tonymatheus/ToDo-React-Native-App/issues/1#issue-621410167
