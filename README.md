@@ -3,8 +3,19 @@ _Aplicativo feito com React-Native que cria uma lista de coisas a fazer (ToDoLis
 
 ## O App Implementa um **ToDo List** simples e prático de forma  a atender as necessidades de quem precisa criar uma lista de  afazeres do dia a dia
 
-#### Tecnologias Utilizadas:
+#### Como Utilizar ?
 
-- [x]React-Native
-- [x]JavaScript
-- [x]FireBase
+**Após Fazer o Clone do Projeto digite em Seu CMD ou Linux Terminal o Seguinte Comando :***
+
+>**yarn ou yarn install**
+
+
+**Após Isso Digite os ocomandos a Seguir :***
+
+>**yarn start**
+
+**Depois**
+
+>**yarn android**
+
+# Quando Rodar o App esse será o Resultado Apresentado
