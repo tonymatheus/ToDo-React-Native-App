@@ -20,3 +20,9 @@ _Aplicativo feito com React-Native que cria uma lista de coisas a fazer (ToDoLis
 
 ### Quando Rodar o App esse será o Resultado Apresentado
 ![TodoApp](https://github.com/tonymatheus/ToDo-React-Native-App/blob/master/Toddo%20App.gif)
+
+###### Tecnologias Utilizadas
+- [x] JavaScript
+- [x] React-Native
+- [x] Firebase
+- [x] Android Studio
