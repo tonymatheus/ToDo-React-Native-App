@@ -6,17 +6,19 @@ _Aplicativo feito com React-Native que cria uma lista de coisas a fazer (ToDoLis
 #### Como Utilizar ?
 
 **Após Fazer o Clone do Projeto digite em Seu CMD ou Linux Terminal o Seguinte Comando :***
-
->**yarn ou yarn install**
-
+```bash
+yarn ou yarn install
+```
 
 **Após Isso Digite os ocomandos a Seguir :***
 
->**yarn start**
-
+```bash
+yarn start
+```
 **Depois**
-
->**yarn android**
+```bash
+yarn android
+```
 
 ### Quando Rodar o App esse será o Resultado Apresentado
 ![TodoApp](https://github.com/tonymatheus/ToDo-React-Native-App/blob/master/Toddo%20App.gif)
