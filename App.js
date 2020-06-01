@@ -15,6 +15,7 @@ import firebase from './src/fireBaseConnection';
 import TaskList from './src/TaskList';
 
 console.ignoredYellowBox = ['Setting a timer'];
+console.ignoredYellowBox = true;
 export default function App() {
   const inputRef = useRef(null);
   const [newTask, setNewTask] = useState('');
